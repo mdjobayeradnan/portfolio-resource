@@ -112,3 +112,11 @@ font-weight: 700;
    padding: 51px;
     font-size: 18px
  }
+ main{
+    max-width:1140px;
+    margin: 0 auto;
+ }
+ .about-info-container{
+    display: flex;
+    justify-content: space-around;
+ }
